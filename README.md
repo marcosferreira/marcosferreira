@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 👋 Olá, seja bem vindo 💜!!!
 
-> Por aqui você encontrará alguns dos meus projetos que desenvolvo tanto frontend quanto backend.
+> Por aqui você encontrará alguns dos meus projetos que desenvolvi tanto frontend quanto backend.
 
 🔭 Nos meus repositórios você terá acesso à alguns projetos que fiz utilizando NodeJS, ReactJS, React Native.
 
