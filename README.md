@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ## ⭐ Information about my GitHub account
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosferreira)](https://github.com/marcosferreira?tab=repositories)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
 
 <a href="https://wakatime.com/@c0fbdaff-30aa-440d-813e-367df1382790"><img src="https://wakatime.com/badge/user/c0fbdaff-30aa-440d-813e-367df1382790.svg" alt="Total time coded since Mar 1 2022" /></a>
 
