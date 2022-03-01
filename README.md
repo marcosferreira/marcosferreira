@@ -14,21 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Olá, seja bem vindo 💜!!!
+## 👋 Hi, Welcome 💜!!!
 
-> Por aqui você encontrará alguns dos meus projetos que desenvolvi tanto frontend quanto backend.
+> Here you will find some of my projects that I developed both frontend and backend.
 
-🔭 Nos meus repositórios você terá acesso à alguns projetos que fiz utilizando NodeJS, ReactJS, React Native, Flutter e Django.
+🔭 In my repositories you will have access to some projects I made using NodeJS, ReactJS, React Native, Flutter and Django.
 
-💬 Caso esteja interessado em conversar sobre tecnologias, tirar dúvidas ou precise de ajuda em algum projeto open source, é só entrar em contato através do meu <a href="https://www.linkedin.com/in/marcosferreira-work" target="_blank"> LinkedIn </a> .
+💬 If you are interested in talking about technologies, have questions or need help with an open source project, just get in touch through my <a href="https://www.linkedin.com/in/marcosferreira-work" target="_blank"> LinkedIn </a> .
 
 ----
 
-<!-- ## 🚀 Minhas Skills
+## 🚀 My Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
---- -->
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django"/></code>
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosferreira)](https://github.com/marcosferreira?tab=repositories)
