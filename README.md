@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
 
+<a href="https://wakatime.com/@c0fbdaff-30aa-440d-813e-367df1382790"><img src="https://wakatime.com/badge/user/c0fbdaff-30aa-440d-813e-367df1382790.svg" alt="Total time coded since Mar 1 2022" /></a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosferreira&repo=github-readme-stats)](https://github.com/marcosferreira/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
