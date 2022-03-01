@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, Welcome 💜!!!
+## 👋 Hi, Welcome!!!
 
 [![wakatime](https://wakatime.com/badge/user/c0fbdaff-30aa-440d-813e-367df1382790.svg)](https://wakatime.com/@c0fbdaff-30aa-440d-813e-367df1382790)
 [![twitter](https://img.shields.io/twitter/follow/marcosdev_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/marcosdev_)
