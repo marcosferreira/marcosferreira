@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django"/></code>
 
 ## ⭐ Information about my GitHub account
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosferreira)](https://github.com/marcosferreira?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosferreira)](https://github.com/marcosferreira?tab=repositories)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosferreira&repo=github-readme-stats)](https://github.com/marcosferreira/github-readme-stats)
 
