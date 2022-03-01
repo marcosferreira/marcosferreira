@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, Welcome 💜!!!
 
+[![wakatime](https://wakatime.com/badge/user/c0fbdaff-30aa-440d-813e-367df1382790.svg)](https://wakatime.com/@c0fbdaff-30aa-440d-813e-367df1382790)
+[![twitter](https://img.shields.io/twitter/follow/marcosdev_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/marcosdev_)
+[![github](https://img.shields.io/github/followers/marcosferreira?logo=github&style=plastic)](https://github.com/marcosferreira?tab=followers)
+
 > Here you will find some of my projects that I developed both frontend and backend.
 
 🔭 In my repositories you will have access to some projects I made using NodeJS, ReactJS, React Native, Flutter and Django.
@@ -36,9 +40,7 @@ Here are some ideas to get you started:
 ## ⭐ Information about my GitHub account
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosferreira)](https://github.com/marcosferreira?tab=repositories)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
-
-<a href="https://wakatime.com/@c0fbdaff-30aa-440d-813e-367df1382790"><img src="https://wakatime.com/badge/user/c0fbdaff-30aa-440d-813e-367df1382790.svg" alt="Total time coded since Mar 1 2022" /></a>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@c0fbdaff-30aa-440d-813e-367df1382790)](https://github.com/marcosferreira/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosferreira&repo=github-readme-stats)](https://github.com/marcosferreira/github-readme-stats)
 
