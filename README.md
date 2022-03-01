@@ -36,8 +36,10 @@ Here are some ideas to get you started:
 ## ⭐ Information about my GitHub account
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosferreira)](https://github.com/marcosferreira?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosferreira&repo=github-readme-stats)](https://github.com/marcosferreira/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
+
+
