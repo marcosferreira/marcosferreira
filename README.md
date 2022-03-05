@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira)](https://github.com/marcosferreira/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira)](https://wakatime.com/@marcosferreira)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosferreira&repo=github-readme-stats)](https://github.com/marcosferreira/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosferreira&repo=github-readme-stats)](https://github.com/marcosferreira/github-readme-stats) -->
 
 
 
