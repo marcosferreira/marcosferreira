@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🔭 In my repositories you will have access to some projects I made using Python/Django in backend, JavaScript/React in frontend.
 
-💬 If you are interested in talking about technologies, have questions or need help with an open source project, just get in touch through my <a href="https://www.linkedin.com/in/marcosferreira-work" target="_blank"> LinkedIn </a> .
+💬 If you are interested in talking about technologies, have questions or need help with an open source project, just get in touch through my <a href="https://www.linkedin.com/in/marcosferreira-dev" target="_blank"> LinkedIn </a> .
 
 ----
 
