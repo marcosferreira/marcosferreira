@@ -45,10 +45,16 @@ Here are some ideas to get you started:
 
 
 ## ⭐ Information about my GitHub account
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosferreira&show_icons=true&theme=transparent)](https://github.com/marcosferreira?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosferreira&layout=compact)](https://github.com/marcosferreira/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira)](https://wakatime.com/@marcosferreira)
+<a href="https://github.com/marcosferreira/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcosferreira&theme=transparent" />
+</a>
+<a href="https://github.com/marcosferreira/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosferreira&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/marcosferreira/github-readme-stats">
+  <img height=308 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcosferreira&layout=compact&langs_count=8&card_width=620&theme=transparent" />
+</a>
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosferreira&repo=github-readme-stats)](https://github.com/marcosferreira/github-readme-stats)-->
 
